@@ -125,4 +125,4 @@ async function seedIfEmpty() {
   }
 }
 
-seedIfEmpty();
+// seedIfEmpty();
